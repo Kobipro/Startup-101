@@ -169,7 +169,7 @@ TABLE OF CONTENT
   
   h1,
   h2,
-  h4 { color: var(--ui-color-typography-heading); }
+  h4 { color: blue; }
   
   h1,
   h2 { margin-bottom: var(--ui-typography-margin-heading); }
@@ -269,7 +269,7 @@ TABLE OF CONTENT
   }
   
   .ui-component-button-primary {
-    background-color: var(--ui-color-brand);
+    background-color: blue;
     color: var(--ui-color-typography-button);
   }
   
