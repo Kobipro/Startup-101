@@ -208,7 +208,17 @@ TABLE OF CONTENT
     color: var(--ui-color-typography-note);
     line-height: 1;
   }
+  /* read more read less */
+  #more {display: none;}
+  #re {display: none;}
+  #bingo {display: none;}
+  #nep {display: none;}
+  #reg {display: none;}
+  #bore {display: none;}
+  #ye {display: none;}
   
+  
+
   /*--------------------------------------------------------------
   4.0 IMAGE
   --------------------------------------------------------------*/
